@@ -6,9 +6,9 @@ O repositório nubank-clone contém App clone da interface do app da empresa NuB
 
 ## 📱 Interface
 
-![](https://media-exp1.licdn.com/dms/image/C4D22AQEVl9ys0eA5Tw/feedshare-shrink_2048_1536/0?e=1588809600&v=beta&t=QCTEhFVnIJoknHUdYnaYzxsd4DtqinyAnkgkYCxdi7g)
+![](https://cdn.discordapp.com/attachments/576875163686010911/696133972492812359/unknown.png)
 
-![](https://media-exp1.licdn.com/dms/image/C4D22AQGEubfPUqP0Lw/feedshare-shrink_2048_1536/0?e=1588809600&v=beta&t=mxa76TkJgxLn51gSFxjHT_P_thp2m0I6q49SM2AdYJ8)
+![](https://cdn.discordapp.com/attachments/576875163686010911/696134101949743205/unknown.png)
 
 ## 🔥 Tecnologias
 
